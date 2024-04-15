@@ -9,6 +9,8 @@
       Languages - Python3, SQL.
      
       Tools - Tableau, Jupyter Notebook, SQL Server, Google Colab, Oracle.
+
+      Machile learning/ Statistics -Statistical Analysis, Data Visualization, Data Cleaning, Data modelling, Data Mining, Data Warehousing, Linear and Logistic Regression, Tree based algorithms, Clustering, k-NN, Probability and Statistics, Machine Learning Algorithms, ETL.
       
       Operating System - Windows7, Windows10.
 <!---
